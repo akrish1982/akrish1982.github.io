@@ -13,6 +13,8 @@ Ironside
 Reported to: Information Management Practice Director International Retail Client data provider
 
 * ❇️ Developed and implemented data pipelines using Scala to transform product data from ecommerce websites for input to machine learning algorithm. The Scala code and Spark platform were optimized 35 million records daily within the 3 hour ETA. Scheduled monitored the Scala code using Apache Airflow DAGs.
+* ![Data Flow](https://github.com/akrish1982/akrish1982.github.io/blob/main/profitero%20data%20flow.png "Data Flow")
+
 * ❇️ Developed Spark code in Scala using Spark SQL & Data Frames for aggregation
 * ❇️ Worked with Sqoop to ingest & retrieve data from various RDBMS like Oracle DB & Postgresql
 * ❇️ Created schema in Hive with performance optimization using bucketing & partitioning National Haircut chain
