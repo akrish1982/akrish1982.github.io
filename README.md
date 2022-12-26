@@ -1,12 +1,19 @@
 # Ananth Tirumanur
 
-# Data Expert in Buffalo, NY, United States
+# Data Expert in Charlotte, NC, United States
 
 Demonstrated leadership in Data related Technical Programs. 16 years of Proficiency in data management, analytics and visualization, data flow, data integrity, data automation and data science.
 
 # Experience
+Data Architect May 2022 - Present
+==================================================
+Amazon Web Services
 
-Manager, Data Engineering 2021 - Present
+Reported to: Program Manager, Global Competency Center
+
+* ❇️ Lauded by the clients for strong execution and leadership
+
+Manager, Data Engineering 2021 - Apr 2022
 ==================================================
 Ironside
 
