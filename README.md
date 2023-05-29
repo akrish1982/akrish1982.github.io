@@ -1,6 +1,6 @@
 # Ananth Tirumanur
 
-# Data Expert in Charlotte, NC, United States
+# Data Expert in NC, United States
 
 Demonstrated leadership in Data related Technical Programs. 16 years of Proficiency in data management, analytics and visualization, data flow, data integrity, data automation and data science.
 
@@ -12,6 +12,10 @@ Amazon Web Services
 Reported to: Program Manager, Global Competency Center
 
 * ❇️ Lauded by the clients for strong execution and leadership
+* ❇️ Developed & popularized reusable solutions that reduced Data Lake build costs by 80% (PySpark, MSK/Kafka, Hive, Hadoop, Glue)
+* ❇️ Developed reusable assets & published guidance in aws-samples (Github) and AWS documents (Terrafom, Python, Pyspark)
+* ❇️ On-boarded and trained in Databricks as a part of the AWS ISV ambassador program
+
 
 Manager, Data Engineering 2021 - Apr 2022
 ==================================================
